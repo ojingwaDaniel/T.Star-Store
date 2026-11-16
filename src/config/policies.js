@@ -14,7 +14,7 @@ export const POLICIES = {
   privacy: {
     title: "Privacy Policy",
     updated: "16 November 2026",
-    draft: true,
+    draft: false,
     intro: "How {name} collects, uses and protects your personal information.",
     sections: [
       {
